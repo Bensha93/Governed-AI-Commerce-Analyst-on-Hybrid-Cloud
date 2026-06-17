@@ -27,3 +27,8 @@ output "dlq_url" {
   description = "Dead-letter queue URL."
   value       = aws_sqs_queue.raw_file_events_dlq.id
 }
+
+output "glue_job_name" {
+  description = "AWS Glue job name for converting Olist CSV files to Parquet."
+  value       = aws_glue_job.olist_csv_to_parquet.name
+}
