@@ -2,7 +2,7 @@ locals {
   name_prefix = "${var.project_name}-${var.environment}"
 
   common_tags = {
-    Project     = "Hybrid Cloud Governed AI Commerce Analyst"
+    Project     = "Governed AI Commerce Analyst on Hybrid Cloud"
     Environment = var.environment
     ManagedBy   = "Terraform"
   }

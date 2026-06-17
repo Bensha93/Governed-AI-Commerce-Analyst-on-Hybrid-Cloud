@@ -1,7 +1,7 @@
 variable "project_name" {
-  description = "Project name used for resource naming."
+  description = "Governed AI Commerce Analyst"
   type        = string
-  default     = "hybrid-ai-commerce"
+  default     = "governed-ai-commerce-analyst."
 }
 
 variable "environment" {

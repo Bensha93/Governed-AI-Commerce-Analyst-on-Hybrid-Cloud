@@ -1,11 +1,11 @@
 variable "gcp_project_id" {
   type        = string
-  description = "GCP project ID."
+  description = "governed-ai-commerce-analyst."
 }
 
 variable "bq_location" {
   type        = string
-  description = "BigQuery location. Use EU if you are building from Poland/EU."
+  description = "BigQuery location. Europe"
   default     = "EU"
 }
 

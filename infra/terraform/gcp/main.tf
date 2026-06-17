@@ -16,7 +16,7 @@ provider "google" {
 locals {
   labels = {
     environment = var.environment
-    project     = "hybrid-commerce-ai"
+    project     = "governed-ai-commerce-analyst"
   }
 }
 
