@@ -1,0 +1,7 @@
+version: 2
+
+models:
+  - name: vw_order_reconciliation
+    description: Certified AI-safe view for order reconciliation analysis.
+  - name: vw_revenue_performance
+    description: Certified AI-safe view for revenue performance analysis.

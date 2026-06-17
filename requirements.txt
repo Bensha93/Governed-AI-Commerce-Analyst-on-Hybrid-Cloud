@@ -1,0 +1,8 @@
+boto3==1.35.99
+google-cloud-bigquery==3.27.0
+google-cloud-bigquery-storage==2.27.0
+pandas==2.2.3
+pyarrow==18.1.0
+python-dotenv==1.0.1
+pydantic==2.10.5
+sqlglot==26.1.3
