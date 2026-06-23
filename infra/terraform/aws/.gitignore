@@ -1,0 +1,4 @@
+
+# Local secrets/temp files
+tmp/
+.env
