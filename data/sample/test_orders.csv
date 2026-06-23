@@ -1,0 +1,4 @@
+order_id,customer_id,order_status,order_value
+1,C001,delivered,120.50
+2,C002,cancelled,75.00
+3,C003,delivered,200.99
